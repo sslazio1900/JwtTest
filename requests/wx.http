@@ -1,0 +1,5 @@
+@url = https://localhost:7090/
+
+GET {{url}}weatherforecast HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMDhiOTRkNy04NzZhLTRiNzEtOTNmMS1jNjExYWMxMzZkZDEiLCJqdGkiOiJjNjI3Y2JiMi0xNzdhLTQ5MjctYmUyNS0wMjRiNGVmZDJmZjMiLCJnaXZlbl9uYW1lIjoiUGlwcG8iLCJmYW1pbHlfbmFtZSI6IlBsdXRvIiwiZXhwIjoxNjYxMzUzNzE2LCJpc3MiOiJBdXRoU2VydmljZSIsImF1ZCI6IkRlcGVuZGFudFNlcnZpY2VfMiJ9.yH3YaeS57Qxps2bseXRQSTh-uyTNfg9rhGJm_mNvq54
